@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\dev\\Desktop\\Eplayers-AspNetCore\\Eplayers-AspNetCore.csproj",
+  "FilePath": "c:\\Users\\dev\\Downloads\\Eplayers-AspNetCore\\Eplayers-AspNetCore.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15603,33 +15603,38 @@
   "RootNamespace": "Eplayers_AspNetCore",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\dev\\Desktop\\Eplayers-AspNetCore\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\dev\\Desktop\\Eplayers-AspNetCore\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\dev\\Downloads\\Eplayers-AspNetCore\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\dev\\Desktop\\Eplayers-AspNetCore\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\dev\\Downloads\\Eplayers-AspNetCore\\Views\\Equipe\\Index.cshtml",
+      "TargetPath": "Views\\Equipe\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\dev\\Desktop\\Eplayers-AspNetCore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\dev\\Desktop\\Eplayers-AspNetCore\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\dev\\Downloads\\Eplayers-AspNetCore\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\dev\\Desktop\\Eplayers-AspNetCore\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\dev\\Downloads\\Eplayers-AspNetCore\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dev\\Downloads\\Eplayers-AspNetCore\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dev\\Downloads\\Eplayers-AspNetCore\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dev\\Downloads\\Eplayers-AspNetCore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
   ],
