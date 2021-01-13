@@ -33,7 +33,7 @@ namespace Eplayers_AspNetCore.Models
         {
            List<string> linhas = ReadAllLinesCSV(PATH);
             // Removemos a linha que tinha o código a ser alterado
-            linhas.RemoveAll(x => x.Split(";")[0] == IdEquipe.ToString());
+            linhas.RemoveAll(x => x.Split(";")[0] == id.ToString());
 
             // Reescreve o csv com as alterações
             RewriteCSV(PATH, linhas);

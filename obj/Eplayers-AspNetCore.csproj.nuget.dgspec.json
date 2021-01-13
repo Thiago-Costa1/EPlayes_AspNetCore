@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev\\Downloads\\Eplayers-AspNetCore\\Eplayers-AspNetCore.csproj": {}
+    "C:\\Users\\dev\\Desktop\\Eplayers-AspNetCore\\Eplayers-AspNetCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev\\Downloads\\Eplayers-AspNetCore\\Eplayers-AspNetCore.csproj": {
+    "C:\\Users\\dev\\Desktop\\Eplayers-AspNetCore\\Eplayers-AspNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev\\Downloads\\Eplayers-AspNetCore\\Eplayers-AspNetCore.csproj",
+        "projectUniqueName": "C:\\Users\\dev\\Desktop\\Eplayers-AspNetCore\\Eplayers-AspNetCore.csproj",
         "projectName": "Eplayers-AspNetCore",
-        "projectPath": "C:\\Users\\dev\\Downloads\\Eplayers-AspNetCore\\Eplayers-AspNetCore.csproj",
+        "projectPath": "C:\\Users\\dev\\Desktop\\Eplayers-AspNetCore\\Eplayers-AspNetCore.csproj",
         "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev\\Downloads\\Eplayers-AspNetCore\\obj\\",
+        "outputPath": "C:\\Users\\dev\\Desktop\\Eplayers-AspNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
