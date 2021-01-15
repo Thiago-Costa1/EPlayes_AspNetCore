@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev\\Desktop\\Eplayers-AspNetCore\\Eplayers-AspNetCore.csproj": {}
+    "C:\\Users\\Fic\\Desktop\\Novapasta\\EPlayer_AspNetCore\\Eplayers-AspNetCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev\\Desktop\\Eplayers-AspNetCore\\Eplayers-AspNetCore.csproj": {
+    "C:\\Users\\Fic\\Desktop\\Novapasta\\EPlayer_AspNetCore\\Eplayers-AspNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev\\Desktop\\Eplayers-AspNetCore\\Eplayers-AspNetCore.csproj",
+        "projectUniqueName": "C:\\Users\\Fic\\Desktop\\Novapasta\\EPlayer_AspNetCore\\Eplayers-AspNetCore.csproj",
         "projectName": "Eplayers-AspNetCore",
-        "projectPath": "C:\\Users\\dev\\Desktop\\Eplayers-AspNetCore\\Eplayers-AspNetCore.csproj",
-        "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev\\Desktop\\Eplayers-AspNetCore\\obj\\",
+        "projectPath": "C:\\Users\\Fic\\Desktop\\Novapasta\\EPlayer_AspNetCore\\Eplayers-AspNetCore.csproj",
+        "packagesPath": "C:\\Users\\Fic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Fic\\Desktop\\Novapasta\\EPlayer_AspNetCore\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Fic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
