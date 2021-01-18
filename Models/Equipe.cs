@@ -17,16 +17,16 @@ namespace Eplayers_AspNetCore.Models
         {
             CreateFolderAndFile(PATH);
         }
-
-        public string Prepare(Equipe e)
-        { 
-
-            return $"{e.IdEquipe};{e.Nome};{e.Imagem}";
-        }
         public void Create(Equipe e)
         {
             string[] linhas = {Prepare (e)};
             File.AppendAllLines(PATH, linhas);
+        }
+
+        private string Prepare(Equipe e)
+        { 
+
+            return $"{e.IdEquipe};{e.Nome};{e.Imagem}";
         }
 
         public void Delete(int id)
