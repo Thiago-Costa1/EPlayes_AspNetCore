@@ -14,7 +14,6 @@ namespace Eplayers_AspNetCore.Controllers
         Equipe equipeModel = new Equipe();
 
         [Route("Listar")]
-
         public IActionResult Index()
         {   
             // Listando todas as equipes e enviando para a view, através da ViewBag

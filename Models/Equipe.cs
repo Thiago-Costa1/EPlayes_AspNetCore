@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using System.IO;
 using Eplayers_AspNetCore.Interfaces;
+using Eplayers_AspNetCore.Models;
 
 namespace Eplayers_AspNetCore.Models
 {

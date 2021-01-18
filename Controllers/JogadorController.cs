@@ -1,5 +1,7 @@
 using System;
+using System.IO;
 using E_Players_AspNetCore.Models;
+using Eplayers_AspNetCore.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,8 +11,12 @@ namespace E_Players_AspNetCore.Controllers
     public class JogadorController : Controller
     {
         Jogador jogadorModel = new Jogador();
+
+        Equipe equipeModel = new Equipe();
+
         public IActionResult Index()
         {
+            ViewBag.Equipes   = equipeModel.ReadAll();
             ViewBag.Jogadores = jogadorModel.ReadAll();
             return View();
         }
