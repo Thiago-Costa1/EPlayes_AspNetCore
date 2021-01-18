@@ -8,13 +8,14 @@ namespace E_Players_AspNetCore.Controllers
     [Route("Jogador")]
     public class JogadorController : Controller
     {
-        Jogador  jogadorModel = new Jogador();
+        Jogador jogadorModel = new Jogador();
         public IActionResult Index()
         {
             ViewBag.Jogadores = jogadorModel.ReadAll();
             return View();
         }
 
+        [Route("Cadastrar")]
         public IActionResult Cadastrar (IFormCollection form)
         {
             Jogador novoJogador      = new Jogador();
