@@ -24,7 +24,6 @@
                 <option value="@item.IdEquipe">@item.Nome</option>
             }
         </select>
-        <input type="text" name="IdEquipe" />
     </div>
 
     <div class="campo">
@@ -52,7 +51,8 @@
         <th>Email</th>
     </thead>
     <tbody>
-        @foreach(Jogador j in ViewBag.Jogadores){
+        @foreach (Jogador j in ViewBag.Jogadores)
+        {
             <tr>
                 <td>@j.IdJogador</td>
                 <td>@j.Nome</td>
