@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fic\\Desktop\\Novapasta\\EPlayes_AspNetCore\\Eplayers-AspNetCore.csproj",
+      "projectUniqueName": "C:\\Users\\fic\\Desktop\\Novappasta\\EPlayes_AspNetCore\\Eplayers-AspNetCore.csproj",
       "projectName": "Eplayers-AspNetCore",
-      "projectPath": "C:\\Users\\fic\\Desktop\\Novapasta\\EPlayes_AspNetCore\\Eplayers-AspNetCore.csproj",
+      "projectPath": "C:\\Users\\fic\\Desktop\\Novappasta\\EPlayes_AspNetCore\\Eplayers-AspNetCore.csproj",
       "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fic\\Desktop\\Novapasta\\EPlayes_AspNetCore\\obj\\",
+      "outputPath": "C:\\Users\\fic\\Desktop\\Novappasta\\EPlayes_AspNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fic\\AppData\\Roaming\\NuGet\\NuGet.Config"
